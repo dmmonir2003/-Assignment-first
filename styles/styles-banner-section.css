@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+    height: 809px;
+    background-image: url(../banner2.png);
+}
+
+.banner {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+
+}
+
+.banner-text {
+    width: 40%;
+    margin-left: 200px;
+    padding-top: 200px;
+}
+
+.banner-title {
+
+    font-weight: 700;
+    font-size: 50px;
+    /* Dark 01 */
+    color: #151414;
+    margin-bottom: 0;
+
+}
+
+.banner-descripton {
+    font-weight: 400;
+    font-size: 16px;
+    /* Dark 02 */
+    color: #444343;
+}
+
+.first-btn {
+    width: 160px;
+    height: 64px;
+    color: white;
+    background-color: tomato;
+    border-style: none;
+    border-radius: 5px;
+}
