@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* footer section styles */
+.footer {
+    display: flex;
+    width: 1400px;
+    height: 570px;
+    /* Dark 01 */
+    background: #151414;
+    margin-top: 130px;
+}
+
+/* text styles */
+.footer-text {
+    padding-left: 230px;
+    padding-top: 130px;
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+}
+
+.footer-description {
+    font-weight: 400;
+    font-size: 16px;
+    width: 70%;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    color: white;
+}
+
+.footer-contact {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+/* form styles */
+.footer-form {
+    padding-right: 240px;
+    padding-top: 130px;
+}
+
+form {
+    margin-bottom: 10px;
+
+}
+
+#email {
+    height: 30px;
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.third-btn {
+    height: 30px;
+    width: 150px;
+    border-radius: 8px;
+}
