@@ -6,7 +6,10 @@
 
 /* section-my-plan-styles */
 
-
+.my-plan {
+    max-width: 1260px;
+    max-height: 400px;
+}
 
 .my-plans-title {
     font-weight: 700;

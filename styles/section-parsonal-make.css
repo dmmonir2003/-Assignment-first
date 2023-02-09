@@ -7,6 +7,8 @@
 .parsonal-make {
     display: flex;
     background-color: #C8CAC9;
+    max-height: 400px;
+    max-width: 1260px;
 }
 
 
