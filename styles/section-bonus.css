@@ -5,9 +5,9 @@
 }
 
 /* section-bonus-styles */
+
 .bonus {
-    background: linear-gradient(to right, blue, red);
-    background-attachment: fixed;
+    background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0)100%), url(../images/watch.png);
     margin-top: 100px;
     margin-left: 280px;
     margin-bottom: 120px;
@@ -16,7 +16,6 @@
     border-radius: 8px;
 
 }
-
 
 .bonus-title {
 
