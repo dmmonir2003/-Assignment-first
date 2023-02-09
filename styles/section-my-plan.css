@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.my-plans-title {
+    font-weight: 700;
+    font-size: 40px;
+    /* Dark 01 */
+    color: #151414;
+    text-align: center;
+}
+
+.my-plan-main-contant {
+    display: flex;
+    gap: 70px;
+    margin-left: 240px;
+    margin-top: 60px;
+
+}
+
+.my-plan-img {
+    margin-left: 20px;
+}
+
+.contant {
+    font-weight: 700;
+    font-size: 20px;
+    /* Dark 01 */
+    color: #151414;
+}
+
+.sub-contant {
+    font-weight: 500;
+    font-size: 18px;
+    /* Dark 03 */
+    color: #737272;
+    margin-bottom: 30px;
+}
