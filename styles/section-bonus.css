@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* margin-top: 100px;
+margin-left: 230px;
+margin-bottom: 50px;
+height: 200px;
+width: 850px;
+border-radius: 8px; */
+
+
+
+
+.bonus {
+    background: linear-gradient(to right, blue, red);
+    background-attachment: fixed;
+    margin-top: 100px;
+    margin-left: 230px;
+    margin-bottom: 50px;
+    height: 200px;
+    width: 850px;
+    border-radius: 8px;
+
+}
+
+
+.bonus-title {
+
+    font-weight: 700;
+    font-size: 40px;
+    width: 60%;
+    padding-top: 20px;
+    padding-left: 30px;
+    margin-bottom: 0;
+}
+
+.second-btn {
+    width: 140px;
+    height: 50px;
+    background-color: white;
+    color: blue;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: none;
+    margin-left: 30px;
+}
