@@ -4,23 +4,13 @@
     font-family: 'Poppins', sans-serif;
 }
 
-
-/* margin-top: 100px;
-margin-left: 230px;
-margin-bottom: 50px;
-height: 200px;
-width: 850px;
-border-radius: 8px; */
-
-
-
-
+/* section-bonus-styles */
 .bonus {
     background: linear-gradient(to right, blue, red);
     background-attachment: fixed;
     margin-top: 100px;
-    margin-left: 230px;
-    margin-bottom: 50px;
+    margin-left: 280px;
+    margin-bottom: 120px;
     height: 200px;
     width: 850px;
     border-radius: 8px;

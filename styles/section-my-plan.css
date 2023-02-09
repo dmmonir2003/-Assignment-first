@@ -4,6 +4,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* section-my-plan-styles */
+.my-plan {
+    margin-left: 30px;
+}
+
 .my-plans-title {
     font-weight: 700;
     font-size: 40px;
@@ -15,7 +20,7 @@
 .my-plan-main-contant {
     display: flex;
     gap: 70px;
-    margin-left: 240px;
+    margin-left: 270px;
     margin-top: 60px;
 
 }
