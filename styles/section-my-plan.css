@@ -5,9 +5,8 @@
 }
 
 /* section-my-plan-styles */
-.my-plan {
-    margin-left: 30px;
-}
+
+
 
 .my-plans-title {
     font-weight: 700;
@@ -20,9 +19,9 @@
 .my-plan-main-contant {
     display: flex;
     gap: 70px;
-    margin-left: 270px;
+    margin-left: 260px;
     margin-top: 60px;
-
+    margin-right: 50px;
 }
 
 .my-plan-img {
